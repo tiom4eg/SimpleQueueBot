@@ -19,7 +19,7 @@ queue = []
 
 @bot.command()
 async def help(ctx):
-    ctx.send(HELP_TEXT)
+    await ctx.send(HELP_TEXT)
 
 
 @bot.command()
