@@ -1,3 +1,4 @@
+# Are you sad enough?
 import discord
 import asyncio
 import time
